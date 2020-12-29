@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     zhicongwu
 github_username:    zhicongwu
 facebook_username:  zhicongwu
-#jianshu_username:   e71990ada2fd
+jianshu_username:   f1322cf1d751
 #twitter_username:   qiubaiying
 
 
@@ -102,8 +102,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·ZC",
+        href: "http://www.jianshu.com/u/f1322cf1d751"
     },{
         title: "Apple",
         href: "https://apple.com"
