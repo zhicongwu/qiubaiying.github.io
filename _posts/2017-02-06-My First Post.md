@@ -19,4 +19,4 @@ tags:								#标签
 
 新的一年，新的开始，加油！
 
-![](https://share.getcloudapp.com/04uNvzzL)
+![](https://i.loli.net/2020/12/30/HRUKiXVLv6BCqbW.jpg)
